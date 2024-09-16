@@ -1,0 +1,62 @@
+*{margin: 0%;
+padding: 0%;}
+table{height: 900px;
+  width: 100%}
+  
+  table{background-image: url(fundo\ 1.png); 
+    background-repeat: no-repeat;
+    background-size: cover;}
+  
+  body{margin: 0px;
+
+height: 1000px;
+margin: 0px;}
+  td{width: 25%;}
+  #rosa {background-color: rgba(251, 69, 199, 1);
+      height: 394px;}
+  
+      .roboto {  font-family: "Roboto", sans-serif;
+      font-weight: 300;
+  text-align: justify;
+  color: white;}
+  
+  #verde {background-color: #89f668;}
+  #roxoForte {background-color: rgba(67, 11, 110, 1);
+  width: 500px;}
+  
+  #roboto2 {font-family: "Roboto", sans-serif;
+      font-weight: 300;
+  color: rgb(102, 16, 131);}
+  
+  #verde2 {color: #89f668;
+  text-align: center;}
+  .roxo2 {background-color: #5b1078;}
+  
+  #borda {background-color: rgba(58,11,99,1);}
+
+  #rodape {
+columns: 3;
+
+  }
+
+  a{
+    color: aliceblue;
+    
+}
+
+
+#roxobtn{ 
+    background-color: rgba(67, 11, 110, 1);
+    text-align: center;
+}
+
+#btn{
+  width: 25%;
+  height: 25%;
+  background-color:#9851b4;  
+}
+
+#white{
+  color: white;
+  text-align: left;
+}
